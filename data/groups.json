@@ -1,0 +1,512 @@
+[
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-1",
+    "title": "r/scholarships Global Opportunities",
+    "platform": "Reddit",
+    "category": "Scholarships",
+    "memberCount": "140,000+ members",
+    "description": "Community tracking undergraduate, postgraduate, and international scholarships, essay reviews, and grant deadlines.",
+    "joinUrl": "https://www.reddit.com/r/scholarships/",
+    "tags": [
+      "scholarships",
+      "funding",
+      "grants",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-2",
+    "title": "r/studyabroad International Students",
+    "platform": "Reddit",
+    "category": "Study Abroad",
+    "memberCount": "95,000+ members",
+    "description": "Advice on Erasmus Mundus, Fulbright, DAAD, student visas, university rankings, and foreign campus integration.",
+    "joinUrl": "https://www.reddit.com/r/studyabroad/",
+    "tags": [
+      "studyabroad",
+      "erasmus",
+      "international",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-3",
+    "title": "r/GradSchool Academic Life",
+    "platform": "Reddit",
+    "category": "Higher Education",
+    "memberCount": "270,000+ members",
+    "description": "Support and discussions for Master's and PhD researchers navigating thesis defenses, advisor relationships, and stipends.",
+    "joinUrl": "https://www.reddit.com/r/GradSchool/",
+    "tags": [
+      "gradschool",
+      "phd",
+      "research",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-discord-4",
+    "title": "Study Together Official Discord",
+    "platform": "Discord",
+    "category": "Productive Study",
+    "memberCount": "620,000+ members",
+    "description": "The world's largest virtual study hall on Discord with 24/7 pomodoro timers, accountability rooms, and study resources.",
+    "joinUrl": "https://discord.gg/study",
+    "tags": [
+      "study",
+      "discord",
+      "pomodoro",
+      "education"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-telegram-5",
+    "title": "Global Scholarships & Grants Feed",
+    "platform": "Telegram",
+    "category": "Scholarships",
+    "memberCount": "84,000+ members",
+    "description": "Daily alerts on fully-funded international scholarships, fellowship applications, and academic grants.",
+    "joinUrl": "https://t.me/scholarships_feed",
+    "tags": [
+      "scholarships",
+      "telegram",
+      "fellowships",
+      "funding"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-forum-6",
+    "title": "The Grad Cafe Admissions Forum",
+    "platform": "Forum",
+    "category": "Admissions",
+    "memberCount": "180,000+ members",
+    "description": "Admissions result tracking database, applicant stats, and discipline-specific forums for graduate programs worldwide.",
+    "joinUrl": "https://forum.thegradcafe.com",
+    "tags": [
+      "gradcafe",
+      "admissions",
+      "phd",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-7",
+    "title": "r/digitalnomad Global Travelers",
+    "platform": "Reddit",
+    "category": "Digital Nomad",
+    "memberCount": "2,300,000+ members",
+    "description": "All things digital nomadism: nomad visas, coliving hubs, tax residency, portable workstations, and internet speed tests.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
+    "tags": [
+      "digitalnomad",
+      "travel",
+      "remote-work",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-8",
+    "title": "r/remotework Professionals",
+    "platform": "Reddit",
+    "category": "Remote Careers",
+    "memberCount": "180,000+ members",
+    "description": "Discussions on remote job hunting, async communication, home office ergonomics, and international compensation.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "careers",
+      "telecommuting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-9",
+    "title": "r/cscareerquestions Advisory",
+    "platform": "Reddit",
+    "category": "Tech Careers",
+    "memberCount": "1,100,000+ members",
+    "description": "Career guidance for software engineers, FAANG interview preparation, salary negotiations, and leveling benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
+    "tags": [
+      "cscareerquestions",
+      "interviews",
+      "salary",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-discord-10",
+    "title": "Nomads & Remote Workers Discord",
+    "platform": "Discord",
+    "category": "Remote Lifestyle",
+    "memberCount": "42,000+ members",
+    "description": "Real-time chat connecting nomads across Europe, Southeast Asia, and the Americas with local city channels.",
+    "joinUrl": "https://discord.gg/nomads",
+    "tags": [
+      "nomads",
+      "discord",
+      "travel",
+      "community"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-telegram-11",
+    "title": "Remote Tech Jobs Channel",
+    "platform": "Telegram",
+    "category": "Remote Careers",
+    "memberCount": "68,000+ members",
+    "description": "Daily verified global remote openings for software engineers, product managers, and designers.",
+    "joinUrl": "https://t.me/remotework_jobs",
+    "tags": [
+      "remote-jobs",
+      "telegram",
+      "careers",
+      "tech"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-forum-12",
+    "title": "Nomad List Community Hub",
+    "platform": "Forum",
+    "category": "Digital Nomad",
+    "memberCount": "60,000+ members",
+    "description": "Crowdsourced database and forum rating cost of living, internet speed, safety, and nomad communities worldwide.",
+    "joinUrl": "https://nomadlist.com",
+    "tags": [
+      "nomadlist",
+      "travel",
+      "cities",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-13",
+    "title": "r/technology World News",
+    "platform": "Reddit",
+    "category": "Tech News",
+    "memberCount": "14,000,000+ members",
+    "description": "A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.",
+    "joinUrl": "https://www.reddit.com/r/technology/",
+    "tags": [
+      "technology",
+      "news",
+      "industry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-14",
+    "title": "r/science Academic Research",
+    "platform": "Reddit",
+    "category": "Science & Innovation",
+    "memberCount": "32,000,000+ members",
+    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
+    "joinUrl": "https://www.reddit.com/r/science/",
+    "tags": [
+      "science",
+      "research",
+      "innovation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-15",
+    "title": "r/linux Open Source OS",
+    "platform": "Reddit",
+    "category": "Linux & OS",
+    "memberCount": "920,000+ members",
+    "description": "All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "kernel",
+      "open-source",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-discord-16",
+    "title": "Technology & Science Discord",
+    "platform": "Discord",
+    "category": "Tech Discussion",
+    "memberCount": "90,000+ members",
+    "description": "Global discussion server for engineering disciplines, scientific methodology, and emerging tech.",
+    "joinUrl": "https://discord.gg/technology",
+    "tags": [
+      "technology",
+      "discord",
+      "science",
+      "discussion"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-telegram-17",
+    "title": "TechCrunch Official Channel",
+    "platform": "Telegram",
+    "category": "Tech News",
+    "memberCount": "110,000+ members",
+    "description": "Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "techcrunch",
+      "telegram",
+      "news",
+      "startups"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-forum-18",
+    "title": "Hacker News Community",
+    "platform": "Forum",
+    "category": "Computer Science & Startups",
+    "memberCount": "5,000,000+ members",
+    "description": "Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.",
+    "joinUrl": "https://news.ycombinator.com",
+    "tags": [
+      "hackernews",
+      "yc",
+      "startups",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-19",
+    "title": "r/scholarships Global Opportunities",
+    "platform": "Reddit",
+    "category": "Scholarships",
+    "memberCount": "140,000+ members",
+    "description": "Community tracking undergraduate, postgraduate, and international scholarships, essay reviews, and grant deadlines.",
+    "joinUrl": "https://www.reddit.com/r/scholarships/",
+    "tags": [
+      "scholarships",
+      "funding",
+      "grants",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-20",
+    "title": "r/studyabroad International Students",
+    "platform": "Reddit",
+    "category": "Study Abroad",
+    "memberCount": "95,000+ members",
+    "description": "Advice on Erasmus Mundus, Fulbright, DAAD, student visas, university rankings, and foreign campus integration.",
+    "joinUrl": "https://www.reddit.com/r/studyabroad/",
+    "tags": [
+      "studyabroad",
+      "erasmus",
+      "international",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-21",
+    "title": "r/GradSchool Academic Life",
+    "platform": "Reddit",
+    "category": "Higher Education",
+    "memberCount": "270,000+ members",
+    "description": "Support and discussions for Master's and PhD researchers navigating thesis defenses, advisor relationships, and stipends.",
+    "joinUrl": "https://www.reddit.com/r/GradSchool/",
+    "tags": [
+      "gradschool",
+      "phd",
+      "research",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-discord-22",
+    "title": "Study Together Official Discord",
+    "platform": "Discord",
+    "category": "Productive Study",
+    "memberCount": "620,000+ members",
+    "description": "The world's largest virtual study hall on Discord with 24/7 pomodoro timers, accountability rooms, and study resources.",
+    "joinUrl": "https://discord.gg/study",
+    "tags": [
+      "study",
+      "discord",
+      "pomodoro",
+      "education"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-telegram-23",
+    "title": "Global Scholarships & Grants Feed",
+    "platform": "Telegram",
+    "category": "Scholarships",
+    "memberCount": "84,000+ members",
+    "description": "Daily alerts on fully-funded international scholarships, fellowship applications, and academic grants.",
+    "joinUrl": "https://t.me/scholarships_feed",
+    "tags": [
+      "scholarships",
+      "telegram",
+      "fellowships",
+      "funding"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-forum-24",
+    "title": "The Grad Cafe Admissions Forum",
+    "platform": "Forum",
+    "category": "Admissions",
+    "memberCount": "180,000+ members",
+    "description": "Admissions result tracking database, applicant stats, and discipline-specific forums for graduate programs worldwide.",
+    "joinUrl": "https://forum.thegradcafe.com",
+    "tags": [
+      "gradcafe",
+      "admissions",
+      "phd",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-25",
+    "title": "r/digitalnomad Global Travelers",
+    "platform": "Reddit",
+    "category": "Digital Nomad",
+    "memberCount": "2,300,000+ members",
+    "description": "All things digital nomadism: nomad visas, coliving hubs, tax residency, portable workstations, and internet speed tests.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
+    "tags": [
+      "digitalnomad",
+      "travel",
+      "remote-work",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-26",
+    "title": "r/remotework Professionals",
+    "platform": "Reddit",
+    "category": "Remote Careers",
+    "memberCount": "180,000+ members",
+    "description": "Discussions on remote job hunting, async communication, home office ergonomics, and international compensation.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "careers",
+      "telecommuting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-reddit-27",
+    "title": "r/cscareerquestions Advisory",
+    "platform": "Reddit",
+    "category": "Tech Careers",
+    "memberCount": "1,100,000+ members",
+    "description": "Career guidance for software engineers, FAANG interview preparation, salary negotiations, and leveling benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
+    "tags": [
+      "cscareerquestions",
+      "interviews",
+      "salary",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-discord-28",
+    "title": "Nomads & Remote Workers Discord",
+    "platform": "Discord",
+    "category": "Remote Lifestyle",
+    "memberCount": "42,000+ members",
+    "description": "Real-time chat connecting nomads across Europe, Southeast Asia, and the Americas with local city channels.",
+    "joinUrl": "https://discord.gg/nomads",
+    "tags": [
+      "nomads",
+      "discord",
+      "travel",
+      "community"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-telegram-29",
+    "title": "Remote Tech Jobs Channel",
+    "platform": "Telegram",
+    "category": "Remote Careers",
+    "memberCount": "68,000+ members",
+    "description": "Daily verified global remote openings for software engineers, product managers, and designers.",
+    "joinUrl": "https://t.me/remotework_jobs",
+    "tags": [
+      "remote-jobs",
+      "telegram",
+      "careers",
+      "tech"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "study-in-japan-mext-scholars-hub-forum-30",
+    "title": "Nomad List Community Hub",
+    "platform": "Forum",
+    "category": "Digital Nomad",
+    "memberCount": "60,000+ members",
+    "description": "Crowdsourced database and forum rating cost of living, internet speed, safety, and nomad communities worldwide.",
+    "joinUrl": "https://nomadlist.com",
+    "tags": [
+      "nomadlist",
+      "travel",
+      "cities",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
