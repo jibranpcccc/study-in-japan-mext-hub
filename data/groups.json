@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-japan-mext-hub-reddit-20260920-1",
+    "title": "r/IntltoUSA Student Collective",
+    "platform": "Reddit",
+    "category": "Study Abroad USA",
+    "memberCount": "78,000+ members",
+    "description": "Resource and advice center for international students seeking undergraduate and graduate admission with full aid at US universities.",
+    "joinUrl": "https://www.reddit.com/r/IntltoUSA/",
+    "tags": [
+      "usa",
+      "study-abroad",
+      "admissions",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "study-in-japan-mext-hub-reddit-20260919-1",
     "title": "r/Erasmus European Student Exchange Guild",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
