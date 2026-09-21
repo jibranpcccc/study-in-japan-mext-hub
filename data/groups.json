@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-japan-mext-hub-reddit-20260921-1",
+    "title": "r/GRE Test Strategy Collective",
+    "platform": "Reddit",
+    "category": "Graduate Exams",
+    "memberCount": "130,000+ members",
+    "description": "Forum focused on GRE quantitative reasoning, verbal strategies, vocabulary lists, and GregMat study schedules.",
+    "joinUrl": "https://www.reddit.com/r/GRE/",
+    "tags": [
+      "gre",
+      "grad-school",
+      "quant",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-21"
+  },
+  {
     "id": "study-in-japan-mext-hub-reddit-20260920-1",
     "title": "r/IntltoUSA Student Collective",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-20"
   },
   {
