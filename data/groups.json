@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-japan-mext-hub-telegram-20260923-1",
+    "title": "Global Scholars Telegram Channel",
+    "platform": "Telegram",
+    "category": "Fellowships & Grants",
+    "memberCount": "39,000+ members",
+    "description": "Curated daily alerts on fully-funded international scholarships, government grants, and postdoctoral fellowships.",
+    "joinUrl": "https://t.me/scholars_official",
+    "tags": [
+      "scholarships",
+      "telegram",
+      "fellowships",
+      "funding"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-23"
+  },
+  {
     "id": "study-in-japan-mext-hub-discord-20260922-1",
     "title": "Study Abroad International Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-22"
   },
   {
