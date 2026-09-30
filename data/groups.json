@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-japan-mext-hub-reddit-20260930-1",
+    "title": "r/flying Student Pilots Guild",
+    "platform": "Reddit",
+    "category": "Aviation Training",
+    "memberCount": "340,000+ members",
+    "description": "Premier aviation hub for student pilots, private pilots, and airline transport pilots discussing ground school, checkrides, FAA regulations, and flight hours.",
+    "joinUrl": "https://www.reddit.com/r/flying/",
+    "tags": [
+      "aviation",
+      "pilot",
+      "flight-training",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "study-in-japan-mext-hub-reddit-20260929-1",
     "title": "r/Bar_Prep State & UBE Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {
