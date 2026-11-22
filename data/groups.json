@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-japan-mext-scholars-hub-telegram-5",
+    "title": "Global Scholarships & Grants Feed",
+    "platform": "Telegram",
+    "category": "Scholarships",
+    "memberCount": "84,000+ members",
+    "description": "Daily alerts on fully-funded international scholarships, fellowship applications, and academic grants.",
+    "joinUrl": "https://t.me/scholarships_feed",
+    "tags": [
+      "scholarships",
+      "telegram",
+      "fellowships",
+      "funding"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "study-in-japan-mext-scholars-hub-discord-4",
     "title": "Study Together Official Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -399,24 +418,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "id": "study-in-japan-mext-scholars-hub-telegram-5",
-    "title": "Global Scholarships & Grants Feed",
-    "platform": "Telegram",
-    "category": "Scholarships",
-    "memberCount": "84,000+ members",
-    "description": "Daily alerts on fully-funded international scholarships, fellowship applications, and academic grants.",
-    "joinUrl": "https://t.me/scholarships_feed",
-    "tags": [
-      "scholarships",
-      "telegram",
-      "fellowships",
-      "funding"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
     "id": "study-in-japan-mext-scholars-hub-forum-6",
     "title": "The Grad Cafe Admissions Forum",
     "platform": "Forum",
@@ -645,24 +646,6 @@
       "yc",
       "startups",
       "forum"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "study-in-japan-mext-scholars-hub-telegram-23",
-    "title": "Global Scholarships & Grants Feed",
-    "platform": "Telegram",
-    "category": "Scholarships",
-    "memberCount": "84,000+ members",
-    "description": "Daily alerts on fully-funded international scholarships, fellowship applications, and academic grants.",
-    "joinUrl": "https://t.me/scholarships_feed",
-    "tags": [
-      "scholarships",
-      "telegram",
-      "fellowships",
-      "funding"
     ],
     "verified": true,
     "featured": false,
