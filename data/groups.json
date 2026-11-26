@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-japan-mext-scholars-hub-reddit-9",
+    "title": "r/cscareerquestions Advisory",
+    "platform": "Reddit",
+    "category": "Tech Careers",
+    "memberCount": "1,100,000+ members",
+    "description": "Career guidance for software engineers, FAANG interview preparation, salary negotiations, and leveling benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
+    "tags": [
+      "cscareerquestions",
+      "interviews",
+      "salary",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "study-in-japan-mext-scholars-hub-reddit-8",
     "title": "r/remotework Professionals",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -475,24 +494,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "id": "study-in-japan-mext-scholars-hub-reddit-9",
-    "title": "r/cscareerquestions Advisory",
-    "platform": "Reddit",
-    "category": "Tech Careers",
-    "memberCount": "1,100,000+ members",
-    "description": "Career guidance for software engineers, FAANG interview preparation, salary negotiations, and leveling benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
-    "tags": [
-      "cscareerquestions",
-      "interviews",
-      "salary",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
     "id": "study-in-japan-mext-scholars-hub-discord-10",
     "title": "Nomads & Remote Workers Discord",
     "platform": "Discord",
@@ -649,24 +650,6 @@
       "yc",
       "startups",
       "forum"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "study-in-japan-mext-scholars-hub-reddit-27",
-    "title": "r/cscareerquestions Advisory",
-    "platform": "Reddit",
-    "category": "Tech Careers",
-    "memberCount": "1,100,000+ members",
-    "description": "Career guidance for software engineers, FAANG interview preparation, salary negotiations, and leveling benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
-    "tags": [
-      "cscareerquestions",
-      "interviews",
-      "salary",
-      "reddit"
     ],
     "verified": true,
     "featured": false,
